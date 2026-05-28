@@ -2,7 +2,6 @@
 
 A sleek, high-performance, responsive personal portfolio website engineered to showcase frontend development capabilities, clean UI/UX paradigms, and digital product designs. 
 
-🎯 **Live Demo:** [ayman.dev (Replace with your live link)](#)
 
 ---
 
